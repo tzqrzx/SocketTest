@@ -241,7 +241,7 @@ namespace SocketService
                 }
                 else
                 {
-                    Console.WriteLine("Error!", "Error!");
+                    Console.WriteLine("Error!", "Error111111111111111111!");
                 }
             }
             catch
